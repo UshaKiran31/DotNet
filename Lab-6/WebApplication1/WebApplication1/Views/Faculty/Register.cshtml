@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Faculty Registration";
+}
+<div id="registration-container">
+    <h2>Faculty Registration</h2>
+    <form id="faculty-registration-form">
+        <div class="form-group">
+            <label for="faculty-name">Name</label>
+            <input type="text" id="faculty-name" name="faculty-name" class="form-control" placeholder="Enter name" required />
+        </div>
+        <div class="form-group">
+            <label for="faculty-id">Faculty ID</label>
+            <input type="text" id="faculty-id" name="faculty-id" class="form-control" placeholder="Enter Faculty ID" required />
+        </div>
+        <div class="form-group">
+            <label for="department">Department</label>
+            <input type="text" id="department" name="department" class="form-control" placeholder="Enter Department" required />
+        </div>
+        <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" class="form-control" placeholder="Enter Email" required />
+        </div>
+        <div class="form-group">
+            <label for="password">Password</label>
+            <input type="password" id="password" name="password" class="form-control" placeholder="Enter Password" required />
+        </div>
+        <button type="submit" class="btn btn-primary">Register</button>
+    </form>
+</div>

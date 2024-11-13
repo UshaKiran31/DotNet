@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\akram\\source\\repos\\registrationapp\\registrationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\akram\\source\\repos\\registrationapp\\registrationapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\akram\\source\\repos\\registrationapp\\registrationapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\akram\\source\\repos\\registrationapp\\registrationapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\akram\\source\\repos\\registrationapp\\registrationapp\\views\\sac\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\views\\sac\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\akram\\source\\repos\\registrationapp\\registrationapp\\views\\sac\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\views\\sac\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\akram\\source\\repos\\registrationapp\\registrationapp\\views\\sac\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\views\\sac\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\akram\\source\\repos\\registrationapp\\registrationapp\\views\\sac\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\views\\sac\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\akram\\source\\repos\\registrationapp\\registrationapp\\views\\faculty\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\views\\faculty\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\akram\\source\\repos\\registrationapp\\registrationapp\\controllers\\saccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\controllers\\saccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\akram\\source\\repos\\registrationapp\\registrationapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\akram\\source\\repos\\registrationapp\\registrationapp\\controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\akram\\source\\repos\\registrationapp\\registrationapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\akram\\source\\repos\\registrationapp\\registrationapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\akram\\source\\repos\\registrationapp\\registrationapp\\models\\sac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\models\\sac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\akram\\source\\repos\\registrationapp\\registrationapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\akram\\source\\repos\\registrationapp\\registrationapp\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\akram\\source\\repos\\registrationapp\\registrationapp\\views\\faculty\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\views\\faculty\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\akram\\source\\repos\\registrationapp\\registrationapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\akram\\source\\repos\\registrationapp\\registrationapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\akram\\source\\repos\\registrationapp\\registrationapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|c:\\users\\akram\\source\\repos\\registrationapp\\registrationapp\\migrations\\20241103050219_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E179C24C-70F9-4C33-9B4B-4BE403FC2FD0}|RegistrationApp\\RegistrationApp.csproj|solutionrelative:registrationapp\\migrations\\20241103050219_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Views\\SAC\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RegistrationApp\\Views\\SAC\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Views\\SAC\\Edit.cshtml",
+              "RelativeToolTip": "RegistrationApp\\Views\\SAC\\Edit.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwC0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T11:37:33.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Views\\SAC\\Details.cshtml",
+              "RelativeDocumentMoniker": "RegistrationApp\\Views\\SAC\\Details.cshtml",
+              "ToolTip": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Views\\SAC\\Details.cshtml",
+              "RelativeToolTip": "RegistrationApp\\Views\\SAC\\Details.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T11:37:20.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Views\\SAC\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RegistrationApp\\Views\\SAC\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Views\\SAC\\Delete.cshtml",
+              "RelativeToolTip": "RegistrationApp\\Views\\SAC\\Delete.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T11:35:37.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Views\\SAC\\Index.cshtml",
+              "RelativeDocumentMoniker": "RegistrationApp\\Views\\SAC\\Index.cshtml",
+              "ToolTip": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Views\\SAC\\Index.cshtml",
+              "RelativeToolTip": "RegistrationApp\\Views\\SAC\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwC8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T06:11:22.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SACController.cs",
+              "DocumentMoniker": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Controllers\\SACController.cs",
+              "RelativeDocumentMoniker": "RegistrationApp\\Controllers\\SACController.cs",
+              "ToolTip": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Controllers\\SACController.cs",
+              "RelativeToolTip": "RegistrationApp\\Controllers\\SACController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAwwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:45:41.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RegistrationApp\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RegistrationApp\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T04:56:01.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RegistrationApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RegistrationApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T05:05:07.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Views\\Faculty\\Create.cshtml",
+              "RelativeDocumentMoniker": "RegistrationApp\\Views\\Faculty\\Create.cshtml",
+              "ToolTip": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Views\\Faculty\\Create.cshtml",
+              "RelativeToolTip": "RegistrationApp\\Views\\Faculty\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T05:44:20.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "RegistrationApp\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "RegistrationApp\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAwwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:43:51.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "RegistrationApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "RegistrationApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-03T05:05:30.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\appsettings.json",
+              "RelativeDocumentMoniker": "RegistrationApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\appsettings.json",
+              "RelativeToolTip": "RegistrationApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T04:00:37.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Program.cs",
+              "RelativeDocumentMoniker": "RegistrationApp\\Program.cs",
+              "ToolTip": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Program.cs",
+              "RelativeToolTip": "RegistrationApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T04:03:16.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RegistrationApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RegistrationApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:29:18.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SAC.cs",
+              "DocumentMoniker": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Models\\SAC.cs",
+              "RelativeDocumentMoniker": "RegistrationApp\\Models\\SAC.cs",
+              "ToolTip": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Models\\SAC.cs",
+              "RelativeToolTip": "RegistrationApp\\Models\\SAC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T04:06:53.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RegistrationApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RegistrationApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T05:47:40.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FacultyController.cs",
+              "DocumentMoniker": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Controllers\\FacultyController.cs",
+              "RelativeDocumentMoniker": "RegistrationApp\\Controllers\\FacultyController.cs",
+              "ToolTip": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Controllers\\FacultyController.cs",
+              "RelativeToolTip": "RegistrationApp\\Controllers\\FacultyController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAwwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:33:16.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "RegistrationApp\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Models\\Student.cs",
+              "RelativeToolTip": "RegistrationApp\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T04:05:57.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Models\\Faculty.cs",
+              "RelativeDocumentMoniker": "RegistrationApp\\Models\\Faculty.cs",
+              "ToolTip": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Models\\Faculty.cs",
+              "RelativeToolTip": "RegistrationApp\\Models\\Faculty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T04:06:22.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "RegistrationApp\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "RegistrationApp\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T05:58:45.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Views\\Faculty\\Index.cshtml",
+              "RelativeDocumentMoniker": "RegistrationApp\\Views\\Faculty\\Index.cshtml",
+              "ToolTip": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Views\\Faculty\\Index.cshtml",
+              "RelativeToolTip": "RegistrationApp\\Views\\Faculty\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T06:10:02.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "RegistrationApp\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "RegistrationApp\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-03T05:08:02.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241103050219_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Migrations\\20241103050219_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RegistrationApp\\Migrations\\20241103050219_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\akram\\source\\repos\\RegistrationApp\\RegistrationApp\\Migrations\\20241103050219_InitialCreate.cs",
+              "RelativeToolTip": "RegistrationApp\\Migrations\\20241103050219_InitialCreate.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:02:20.026Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

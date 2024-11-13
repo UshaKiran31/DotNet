@@ -1,0 +1,136 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9fafb;
+    color: #333;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.top-container {
+    display: flex;
+    flex: 0 0 30%; /* Set height to 30% */
+    background-color: #3a3f51;
+    color: #fff;
+    padding: 20px;
+}
+
+.left-section {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    .left-section img {
+        max-width: 80%;
+        height: auto;
+        border-radius: 8px;
+    }
+
+.menu-section {
+    flex: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    .menu-section ul {
+        list-style-type: none;
+        padding: 0;
+        display: flex;
+    }
+
+        .menu-section ul li {
+            margin: 0 20px;
+        }
+
+            .menu-section ul li a {
+                text-decoration: none;
+                font-size: 18px;
+                color: #fff;
+                font-weight: bold;
+                padding: 8px 15px;
+                background-color: #5c6bc0;
+                border-radius: 5px;
+                transition: background-color 0.3s;
+            }
+
+                .menu-section ul li a:hover {
+                    background-color: #3949ab;
+                }
+
+.quote-section p {
+    font-size: 16px;
+    text-align: center;
+    color: #b0bec5;
+    font-style: italic;
+}
+
+.bottom-container {
+    flex: 0 0 70%; /* Set height to 70% */
+    background-color: #ffffff;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+#login-content {
+    width: 100%;
+    max-width: 600px;
+    background-color: #f5f5f5;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    font-size: 26px;
+    color: #3949ab;
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    font-weight: bold;
+    color: #3949ab;
+}
+
+.form-control {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #ffffff;
+}
+
+button {
+    padding: 12px 20px;
+    background-color: #3949ab;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+    button:hover {
+        background-color: #283593;
+    }
+
+.success-message {
+    color: #28a745; /* Green color for success */
+    font-weight: bold;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #28a745;
+    background-color: #e6ffe6;
+    border-radius: 5px;
+}

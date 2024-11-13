@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Registration</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <header class="top-container">
+        <div class="left-section">
+            <img src="~/images/vvit.jpg" alt="Your App Logo" />
+        </div>
+        <nav class="menu-section">
+            <ul>
+                <li><a asp-controller="Home" asp-action="Index" id="home-link">Home</a></li>
+                <li><a asp-controller="Student" asp-action="Register" id="student-link">Student</a></li>
+                <li><a asp-controller="Faculty" asp-action="Register" id="faculty-link">Faculty</a></li>
+                <li><a asp-controller="SAC" asp-action="Register" id="sac-link">SAC</a></li>
+            </ul>
+        </nav>
+        <div class="quote-section">
+            <p>"Absolute discipline<br />Absolute education"</p>
+        </div>
+    </header>
+
+    <main class="bottom-container">
+        <div id="login-content" role="main">
+            @RenderBody()
+        </div>
+    </main>
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
